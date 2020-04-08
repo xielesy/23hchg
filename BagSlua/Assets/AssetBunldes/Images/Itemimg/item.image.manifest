@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 3302590455
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: af9f5fde3c95179f62cd28cb4876441c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/images/Items/40515.png
+- Assets/images/Items/90000.png
+- Assets/images/Items/31104.png
+- Assets/images/Items/35509.png
+- Assets/images/Background/c_bg30.png
+- Assets/images/Items/10006.png
+- Assets/images/Items/51100.png
+- Assets/images/Items/89005.png
+- Assets/images/Items/35309.png
+- Assets/images/Items/10041.png
+- Assets/images/Items/30002.png
+- Assets/images/Items/31110.png
+- Assets/images/Items/10024.png
+- Assets/images/Items/35501.png
+- Assets/images/Items/30005.png
+- Assets/images/Items/35503.png
+- Assets/images/Background/c_bg31.png
+- Assets/images/Items/81003.png
+- Assets/images/Items/40513.png
+- Assets/images/Items/89001.png
+- Assets/images/Items/20001.png
+- Assets/images/Items/35300.png
+- Assets/images/Items/35001.png
+- Assets/images/Items/31103.png
+- Assets/images/Items/40516.png
+- Assets/images/Items/40517.png
+- Assets/images/Items/35502.png
+- Assets/images/Items/35305.png
+- Assets/images/Items/35500.png
+- Assets/images/Items/90009.png
+Dependencies: []

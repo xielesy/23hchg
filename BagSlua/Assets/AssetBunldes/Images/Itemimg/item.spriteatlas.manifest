@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3837558285
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2c2b659dda31edb3a5ba7b79a8251a65
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1b3feb9bc6055cd677abb4cd6f720d90
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- Assets/images/Item.spriteatlas
+Dependencies:
+- E:/GitProject/client-test/BagSlua/Assets/AssetBunldes/Images/ItemImg/item.image
